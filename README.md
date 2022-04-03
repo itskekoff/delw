@@ -7,6 +7,7 @@ root@itskekoffcode:~$ java -jar delw.jar ТОКЕНБОТА
 Вы не пригласили бота используя не только bot, но и application.commands
 Не указан/неверный токен
 Команды:
-:blue_heart:- /attack
-:blue_heart:- /credits
+- /attack
+- /credits
 ```
+Лю :blue_heart:
