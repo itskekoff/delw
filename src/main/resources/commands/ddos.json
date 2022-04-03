@@ -1,0 +1,19 @@
+{
+  "name": "attack",
+  "description": "Запускает ддос атаку на сервер",
+  "options": [
+    {
+      "name": "serverip",
+      "description": "Айпи сервера с портом",
+      "type": 3,
+      "required": true
+    },
+
+    {
+      "name": "method",
+      "description": "Метод",
+      "type": 3,
+      "required": true
+    }
+  ]
+}
